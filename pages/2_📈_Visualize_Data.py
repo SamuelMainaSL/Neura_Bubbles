@@ -10,7 +10,7 @@ table_name = "NeuraBubbleUID_Validator"
 def main():
     st.title('NeuraBubbles Data')
     data = fetch_data()
-    st.text(f"There are {len(data)} models")
+    st.text(f"There are {len(data)} models, Visualize Raw Data?")
     status = st.button("Confirm")
     if status:
         for item in data:

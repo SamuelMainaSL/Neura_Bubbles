@@ -8,7 +8,7 @@ def load_token():
     Loads dropbox authentication token
     :return:
     """
-    with open("NeuraBubbles_and_Canisters/data/token.pkl", "rb") as file:
+    with open("data/token.pkl", "rb") as file:
         data = pickle.load(file)
 
     return data["aws_id"], data["aws_key"]
