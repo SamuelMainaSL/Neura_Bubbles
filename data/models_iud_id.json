@@ -1,9 +1,11 @@
-{
-    "4enPLy": {
+[
+    {
+        "UID": "4enPLy",
         "ID": "MCA L T04 001",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -14,11 +16,13 @@
             }
         ]
     },
-    "uS4aMH": {
+    {
+        "UID": "uS4aMH",
         "ID": "MCA L T04 002",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -29,12 +33,14 @@
             }
         ]
     },
-    "9gByhE": {
+    {
+        "UID": "9gByhE",
         "ID": "MCA L T04 003",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -44,11 +50,13 @@
             }
         ]
     },
-    "gV2c9g": {
+    {
+        "UID": "gV2c9g",
         "ID": "MCA L T04 004",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -59,11 +67,13 @@
             }
         ]
     },
-    "X8kQqD": {
+    {
+        "UID": "X8kQqD",
         "ID": "MCA L T04 005",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -74,11 +84,13 @@
             }
         ]
     },
-    "Exn9Yn": {
+    {
+        "UID": "Exn9Yn",
         "ID": "MCA L T04 006",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -89,11 +101,13 @@
             }
         ]
     },
-    "Kl4HGq": {
+    {
+        "UID": "Kl4HGq",
         "ID": "MCA L T07 001",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -104,11 +118,13 @@
             }
         ]
     },
-    "mTUtT6": {
+    {
+        "UID": "mTUtT6",
         "ID": "MCA L T07 002",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -119,11 +135,13 @@
             }
         ]
     },
-    "7mls3d": {
+    {
+        "UID": "7mls3d",
         "ID": "MCA L T07 003",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -134,11 +152,13 @@
             }
         ]
     },
-    "ub1EyN": {
+    {
+        "UID": "ub1EyN",
         "ID": "MCA L T07 004",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -149,11 +169,13 @@
             }
         ]
     },
-    "avE8Rz": {
+    {
+        "UID": "avE8Rz",
         "ID": "MCA L T07 005",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -164,11 +186,13 @@
             }
         ]
     },
-    "4e0gUe": {
+    {
+        "UID": "4e0gUe",
         "ID": "MCA R T08 001",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -179,11 +203,13 @@
             }
         ]
     },
-    "gHDV9T": {
+    {
+        "UID": "gHDV9T",
         "ID": "MCA R T08 002",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -194,11 +220,13 @@
             }
         ]
     },
-    "s9HBVt": {
+    {
+        "UID": "s9HBVt",
         "ID": "MCA R T08 003",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Placed but Not Recieved",
         "raptured": false,
         "usage": [
             {
@@ -209,11 +237,13 @@
             }
         ]
     },
-    "17HeUe": {
+    {
+        "UID": "17HeUe",
         "ID": "MCA R T08 004",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -224,11 +254,13 @@
             }
         ]
     },
-    "jNJB79": {
+    {
+        "UID": "jNJB79",
         "ID": "MCA R T08 005",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -239,11 +271,13 @@
             }
         ]
     },
-    "A2a7uS": {
+    {
+        "UID": "A2a7uS",
         "ID": "MCA R T12 001",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -254,11 +288,13 @@
             }
         ]
     },
-    "5VZ0le": {
+    {
+        "UID": "5VZ0le",
         "ID": "MCA R T12 002",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -269,11 +305,13 @@
             }
         ]
     },
-    "fFg4f1": {
+    {
+        "UID": "fFg4f1",
         "ID": "MCA R T12 003",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -284,11 +322,13 @@
             }
         ]
     },
-    "0p1cKT": {
+    {
+        "UID": "0p1cKT",
         "ID": "MCA R T12 004",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -299,11 +339,13 @@
             }
         ]
     },
-    "a3VxXv": {
+    {
+        "UID": "a3VxXv",
         "ID": "MCA R T12 005",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -314,11 +356,13 @@
             }
         ]
     },
-    "Ncb5RS": {
+    {
+        "UID": "Ncb5RS",
         "ID": "MCA R T13 001",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -329,11 +373,13 @@
             }
         ]
     },
-    "bnAn36": {
+    {
+        "UID": "bnAn36",
         "ID": "MCA R T13 002",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -344,11 +390,13 @@
             }
         ]
     },
-    "Zux8jR": {
+    {
+        "UID": "Zux8jR",
         "ID": "MCA R T13 003",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -359,11 +407,13 @@
             }
         ]
     },
-    "kf44kJ": {
+    {
+        "UID": "kf44kJ",
         "ID": "MCA R T13 004",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -374,12 +424,14 @@
             }
         ]
     },
-    "8wDwet": {
+    {
+        "UID": "8wDwet",
         "ID": "MCA R T13 005",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -389,12 +441,14 @@
             }
         ]
     },
-    "9gwaFC": {
+    {
+        "UID": "9gwaFC",
         "ID": "MCA R T13 006",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -404,11 +458,13 @@
             }
         ]
     },
-    "L2ZTjr": {
+    {
+        "UID": "L2ZTjr",
         "ID": "MCA R T14 001",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -419,11 +475,13 @@
             }
         ]
     },
-    "KPkTE5": {
+    {
+        "UID": "KPkTE5",
         "ID": "MCA R T14 002",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -434,11 +492,13 @@
             }
         ]
     },
-    "e94Cpi": {
+    {
+        "UID": "e94Cpi",
         "ID": "MCA R T14 003",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -449,11 +509,13 @@
             }
         ]
     },
-    "J9TEnP": {
+    {
+        "UID": "J9TEnP",
         "ID": "MCA R T14 004",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -464,12 +526,14 @@
             }
         ]
     },
-    "nkD1UP": {
+    {
+        "UID": "nkD1UP",
         "ID": "MCA R T14 005",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -479,11 +543,13 @@
             }
         ]
     },
-    "R4r7yQ": {
+    {
+        "UID": "R4r7yQ",
         "ID": "MCA R T14 006",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -494,11 +560,13 @@
             }
         ]
     },
-    "BBSCs4": {
+    {
+        "UID": "BBSCs4",
         "ID": "MCA R T21 001",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -509,11 +577,13 @@
             }
         ]
     },
-    "6h4oN4": {
+    {
+        "UID": "6h4oN4",
         "ID": "MCA R T21 002",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -524,12 +594,14 @@
             }
         ]
     },
-    "7eMxiM": {
+    {
+        "UID": "7eMxiM",
         "ID": "MCA R T21 003",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -539,11 +611,13 @@
             }
         ]
     },
-    "x6uU2g": {
+    {
+        "UID": "x6uU2g",
         "ID": "MCA R T21 004",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -554,11 +628,13 @@
             }
         ]
     },
-    "gDxt5R": {
+    {
+        "UID": "gDxt5R",
         "ID": "MCA R T21 005",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -569,11 +645,13 @@
             }
         ]
     },
-    "hJf4V0": {
+    {
+        "UID": "hJf4V0",
         "ID": "MCA R T22 001",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -584,11 +662,13 @@
             }
         ]
     },
-    "v0296k": {
+    {
+        "UID": "v0296k",
         "ID": "MCA R T22 002",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -599,11 +679,13 @@
             }
         ]
     },
-    "4QAO0V": {
+    {
+        "UID": "4QAO0V",
         "ID": "MCA R T22 003",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -614,11 +696,13 @@
             }
         ]
     },
-    "U33cIT": {
+    {
+        "UID": "U33cIT",
         "ID": "MCA R T22 004",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -629,11 +713,13 @@
             }
         ]
     },
-    "TJ4XCx": {
+    {
+        "UID": "TJ4XCx",
         "ID": "MCA R T22 005",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -644,11 +730,13 @@
             }
         ]
     },
-    "e95Cpi": {
+    {
+        "UID": "e95Cpi",
         "ID": "MCA R T22 006",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -659,12 +747,14 @@
             }
         ]
     },
-    "5enPLy": {
+    {
+        "UID": "5enPLy",
         "ID": "MCA L T23 001",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -674,11 +764,13 @@
             }
         ]
     },
-    "uS5aMH": {
+    {
+        "UID": "uS5aMH",
         "ID": "MCA L T23 002",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -689,12 +781,14 @@
             }
         ]
     },
-    "1gByhE": {
+    {
+        "UID": "1gByhE",
         "ID": "MCA L T23 003",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -704,11 +798,13 @@
             }
         ]
     },
-    "gV2c1g": {
+    {
+        "UID": "gV2c1g",
         "ID": "MCA L T23 004",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -719,11 +815,13 @@
             }
         ]
     },
-    "X9kQqD": {
+    {
+        "UID": "X9kQqD",
         "ID": "MCA L T23 005",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -734,11 +832,13 @@
             }
         ]
     },
-    "Exn1Yn": {
+    {
+        "UID": "Exn1Yn",
         "ID": "MCA L T23 006",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -749,11 +849,13 @@
             }
         ]
     },
-    "Kl5HGq": {
+    {
+        "UID": "Kl5HGq",
         "ID": "MCA L T04 007",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -764,11 +866,13 @@
             }
         ]
     },
-    "mTUtT7": {
+    {
+        "UID": "mTUtT7",
         "ID": "MCA L T04 008",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -779,11 +883,13 @@
             }
         ]
     },
-    "7mls4d": {
+    {
+        "UID": "7mls4d",
         "ID": "MCA L T04 009",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -794,11 +900,13 @@
             }
         ]
     },
-    "ub2EyN": {
+    {
+        "UID": "ub2EyN",
         "ID": "MCA L T04 010",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -809,11 +917,13 @@
             }
         ]
     },
-    "avE9Rz": {
+    {
+        "UID": "avE9Rz",
         "ID": "MCA L T04 011",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -824,11 +934,13 @@
             }
         ]
     },
-    "Jv2L60": {
+    {
+        "UID": "Jv2L60",
         "ID": "MCA L T07 006",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -839,11 +951,13 @@
             }
         ]
     },
-    "Jv2L61": {
+    {
+        "UID": "Jv2L61",
         "ID": "MCA L T07 007",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -854,11 +968,13 @@
             }
         ]
     },
-    "5eOgUe": {
+    {
+        "UID": "5eOgUe",
         "ID": "MCA L T07 008",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -869,11 +985,13 @@
             }
         ]
     },
-    "gHDV0T": {
+    {
+        "UID": "gHDV0T",
         "ID": "MCA L T07 009",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -884,11 +1002,13 @@
             }
         ]
     },
-    "s1HBVt": {
+    {
+        "UID": "s1HBVt",
         "ID": "MCA L T07 010",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -899,11 +1019,13 @@
             }
         ]
     },
-    "18HeUe": {
+    {
+        "UID": "18HeUe",
         "ID": "MCA L T07 011",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -914,11 +1036,13 @@
             }
         ]
     },
-    "6fhGi0": {
+    {
+        "UID": "6fhGi0",
         "ID": "MCA R T08 006",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -929,11 +1053,13 @@
             }
         ]
     },
-    "jNJB80": {
+    {
+        "UID": "jNJB80",
         "ID": "MCA R T08 007",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -944,11 +1070,13 @@
             }
         ]
     },
-    "6fhGi1": {
+    {
+        "UID": "6fhGi1",
         "ID": "MCA R T08 008",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -959,11 +1087,13 @@
             }
         ]
     },
-    "A2a8uS": {
+    {
+        "UID": "A2a8uS",
         "ID": "MCA R T08 009",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -974,12 +1104,14 @@
             }
         ]
     },
-    "5VZ1le": {
+    {
+        "UID": "5VZ1le",
         "ID": "MCA R T08 010",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -989,11 +1121,13 @@
             }
         ]
     },
-    "fFg4f2": {
+    {
+        "UID": "fFg4f2",
         "ID": "MCA R T08 011",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1004,11 +1138,13 @@
             }
         ]
     },
-    "IcY1vM": {
+    {
+        "UID": "IcY1vM",
         "ID": "MCA R T12 006",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1019,11 +1155,13 @@
             }
         ]
     },
-    "0p2cKT": {
+    {
+        "UID": "0p2cKT",
         "ID": "MCA R T12 007",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1034,11 +1172,13 @@
             }
         ]
     },
-    "a4VxXv": {
+    {
+        "UID": "a4VxXv",
         "ID": "MCA R T12 008",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1049,12 +1189,14 @@
             }
         ]
     },
-    "IcY2vM": {
+    {
+        "UID": "IcY2vM",
         "ID": "MCA R T12 009",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -1064,12 +1206,14 @@
             }
         ]
     },
-    "Ncb6RS": {
+    {
+        "UID": "Ncb6RS",
         "ID": "MCA R T12 010",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -1079,11 +1223,13 @@
             }
         ]
     },
-    "bnAn37": {
+    {
+        "UID": "bnAn37",
         "ID": "MCA R T12 011",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1094,11 +1240,13 @@
             }
         ]
     },
-    "Zux9jR": {
+    {
+        "UID": "Zux9jR",
         "ID": "MCA R T13 007",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1109,11 +1257,13 @@
             }
         ]
     },
-    "kf45kJ": {
+    {
+        "UID": "kf45kJ",
         "ID": "MCA R T13 008",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1124,12 +1274,14 @@
             }
         ]
     },
-    "9wDwet": {
+    {
+        "UID": "9wDwet",
         "ID": "MCA R T13 009",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -1139,12 +1291,14 @@
             }
         ]
     },
-    "1gwaFC": {
+    {
+        "UID": "1gwaFC",
         "ID": "MCA R T13 010",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -1154,11 +1308,13 @@
             }
         ]
     },
-    "L3ZTjr": {
+    {
+        "UID": "L3ZTjr",
         "ID": "MCA R T13 011",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1169,11 +1325,13 @@
             }
         ]
     },
-    "KPkTE6": {
+    {
+        "UID": "KPkTE6",
         "ID": "MCA R T13 012",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1184,12 +1342,14 @@
             }
         ]
     },
-    "I6uHjy": {
+    {
+        "UID": "I6uHjy",
         "ID": "MCA R T14 007",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -1199,11 +1359,13 @@
             }
         ]
     },
-    "J1TEnP": {
+    {
+        "UID": "J1TEnP",
         "ID": "MCA R T14 008",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1214,12 +1376,14 @@
             }
         ]
     },
-    "nkD2UP": {
+    {
+        "UID": "nkD2UP",
         "ID": "MCA R T14 009",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
-        "raptured": false,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -1229,11 +1393,13 @@
             }
         ]
     },
-    "R4r8yQ": {
+    {
+        "UID": "R4r8yQ",
         "ID": "MCA R T14 010",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1244,11 +1410,13 @@
             }
         ]
     },
-    "BBSCs5": {
+    {
+        "UID": "BBSCs5",
         "ID": "MCA R T14 011",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1259,11 +1427,13 @@
             }
         ]
     },
-    "Yb6ADR": {
+    {
+        "UID": "Yb6ADR",
         "ID": "MCA R T21 006",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1274,11 +1444,13 @@
             }
         ]
     },
-    "6h4oN5": {
+    {
+        "UID": "6h4oN5",
         "ID": "MCA R T21 007",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1289,11 +1461,13 @@
             }
         ]
     },
-    "8eMxiM": {
+    {
+        "UID": "8eMxiM",
         "ID": "MCA R T21 008",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1304,11 +1478,13 @@
             }
         ]
     },
-    "x6uU3g": {
+    {
+        "UID": "x6uU3g",
         "ID": "MCA R T21 009",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1319,11 +1495,13 @@
             }
         ]
     },
-    "gDxt6R": {
+    {
+        "UID": "gDxt6R",
         "ID": "MCA R T21 010",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1334,11 +1512,13 @@
             }
         ]
     },
-    "Yb7ADR": {
+    {
+        "UID": "Yb7ADR",
         "ID": "MCA R T21 011",
-        "shippedStatus": true,
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1349,11 +1529,13 @@
             }
         ]
     },
-    "hJf4V1": {
+    {
+        "UID": "hJf4V1",
         "ID": "MCA R T22 007",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1364,11 +1546,13 @@
             }
         ]
     },
-    "v0297k": {
+    {
+        "UID": "v0297k",
         "ID": "MCA R T22 008",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1379,11 +1563,13 @@
             }
         ]
     },
-    "4QAO1V": {
+    {
+        "UID": "4QAO1V",
         "ID": "MCA R T22 009",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1394,11 +1580,13 @@
             }
         ]
     },
-    "U34cIT": {
+    {
+        "UID": "U34cIT",
         "ID": "MCA R T22 010",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1409,11 +1597,13 @@
             }
         ]
     },
-    "TJ5XCx": {
+    {
+        "UID": "TJ5XCx",
         "ID": "MCA R T22 011",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1424,11 +1614,13 @@
             }
         ]
     },
-    "e96Cpi": {
+    {
+        "UID": "e96Cpi",
         "ID": "MCA L T23 007",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1439,11 +1631,13 @@
             }
         ]
     },
-    "01iQvR": {
+    {
+        "UID": "01iQvR",
         "ID": "MCA L T23 008",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1454,11 +1648,13 @@
             }
         ]
     },
-    "7W2Xcm": {
+    {
+        "UID": "7W2Xcm",
         "ID": "MCA L T23 009",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Bern",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1469,11 +1665,13 @@
             }
         ]
     },
-    "3enfm2": {
+    {
+        "UID": "3enfm2",
         "ID": "MCA L T23 010",
         "shippedStatus": true,
-        "destinationShipped": "",
+        "destinationShipped": "Turkey",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
         "usage": [
             {
@@ -1484,12 +1682,3414 @@
             }
         ]
     },
-    "7W3Xcm": {
+    {
+        "UID": "7W3Xcm",
         "ID": "MCA L T23 011",
         "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "4enPLy",
+        "ID": "MCA L T04 001",
+        "shippedStatus": false,
         "destinationShipped": "",
         "usageCount": 0,
+        "orderStatus": "Recieved",
         "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "uS4aMH",
+        "ID": "MCA L T04 002",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "9gByhE",
+        "ID": "MCA L T04 003",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gV2c9g",
+        "ID": "MCA L T04 004",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "X8kQqD",
+        "ID": "MCA L T04 005",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Exn9Yn",
+        "ID": "MCA L T04 006",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Kl4HGq",
+        "ID": "MCA L T07 001",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "mTUtT6",
+        "ID": "MCA L T07 002",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7mls3d",
+        "ID": "MCA L T07 003",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "ub1EyN",
+        "ID": "MCA L T07 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "avE8Rz",
+        "ID": "MCA L T07 005",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "4e0gUe",
+        "ID": "MCA R T08 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gHDV9T",
+        "ID": "MCA R T08 002",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "s9HBVt",
+        "ID": "MCA R T08 003",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Placed but Not Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "17HeUe",
+        "ID": "MCA R T08 004",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "jNJB79",
+        "ID": "MCA R T08 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "A2a7uS",
+        "ID": "MCA R T12 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "5VZ0le",
+        "ID": "MCA R T12 002",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "fFg4f1",
+        "ID": "MCA R T12 003",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "0p1cKT",
+        "ID": "MCA R T12 004",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "a3VxXv",
+        "ID": "MCA R T12 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Ncb5RS",
+        "ID": "MCA R T13 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "bnAn36",
+        "ID": "MCA R T13 002",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Zux8jR",
+        "ID": "MCA R T13 003",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "kf44kJ",
+        "ID": "MCA R T13 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "8wDwet",
+        "ID": "MCA R T13 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "9gwaFC",
+        "ID": "MCA R T13 006",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "L2ZTjr",
+        "ID": "MCA R T14 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "KPkTE5",
+        "ID": "MCA R T14 002",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "e94Cpi",
+        "ID": "MCA R T14 003",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "J9TEnP",
+        "ID": "MCA R T14 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "nkD1UP",
+        "ID": "MCA R T14 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "R4r7yQ",
+        "ID": "MCA R T14 006",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "BBSCs4",
+        "ID": "MCA R T21 001",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "6h4oN4",
+        "ID": "MCA R T21 002",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7eMxiM",
+        "ID": "MCA R T21 003",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "x6uU2g",
+        "ID": "MCA R T21 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gDxt5R",
+        "ID": "MCA R T21 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "hJf4V0",
+        "ID": "MCA R T22 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "v0296k",
+        "ID": "MCA R T22 002",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "4QAO0V",
+        "ID": "MCA R T22 003",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "U33cIT",
+        "ID": "MCA R T22 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "TJ4XCx",
+        "ID": "MCA R T22 005",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "e95Cpi",
+        "ID": "MCA R T22 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "5enPLy",
+        "ID": "MCA L T23 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "uS5aMH",
+        "ID": "MCA L T23 002",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "1gByhE",
+        "ID": "MCA L T23 003",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gV2c1g",
+        "ID": "MCA L T23 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "X9kQqD",
+        "ID": "MCA L T23 005",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Exn1Yn",
+        "ID": "MCA L T23 006",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Kl5HGq",
+        "ID": "MCA L T04 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "mTUtT7",
+        "ID": "MCA L T04 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7mls4d",
+        "ID": "MCA L T04 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "ub2EyN",
+        "ID": "MCA L T04 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "avE9Rz",
+        "ID": "MCA L T04 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Jv2L60",
+        "ID": "MCA L T07 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Jv2L61",
+        "ID": "MCA L T07 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "5eOgUe",
+        "ID": "MCA L T07 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gHDV0T",
+        "ID": "MCA L T07 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "s1HBVt",
+        "ID": "MCA L T07 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "18HeUe",
+        "ID": "MCA L T07 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "6fhGi0",
+        "ID": "MCA R T08 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "jNJB80",
+        "ID": "MCA R T08 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "6fhGi1",
+        "ID": "MCA R T08 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "A2a8uS",
+        "ID": "MCA R T08 009",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "5VZ1le",
+        "ID": "MCA R T08 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "fFg4f2",
+        "ID": "MCA R T08 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "IcY1vM",
+        "ID": "MCA R T12 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "0p2cKT",
+        "ID": "MCA R T12 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "a4VxXv",
+        "ID": "MCA R T12 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "IcY2vM",
+        "ID": "MCA R T12 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Ncb6RS",
+        "ID": "MCA R T12 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "bnAn37",
+        "ID": "MCA R T12 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Zux9jR",
+        "ID": "MCA R T13 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "kf45kJ",
+        "ID": "MCA R T13 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "9wDwet",
+        "ID": "MCA R T13 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "1gwaFC",
+        "ID": "MCA R T13 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "L3ZTjr",
+        "ID": "MCA R T13 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "KPkTE6",
+        "ID": "MCA R T13 012",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "I6uHjy",
+        "ID": "MCA R T14 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "J1TEnP",
+        "ID": "MCA R T14 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "nkD2UP",
+        "ID": "MCA R T14 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "R4r8yQ",
+        "ID": "MCA R T14 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "BBSCs5",
+        "ID": "MCA R T14 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Yb6ADR",
+        "ID": "MCA R T21 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "6h4oN5",
+        "ID": "MCA R T21 007",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "8eMxiM",
+        "ID": "MCA R T21 008",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "x6uU3g",
+        "ID": "MCA R T21 009",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gDxt6R",
+        "ID": "MCA R T21 010",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Yb7ADR",
+        "ID": "MCA R T21 011",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "hJf4V1",
+        "ID": "MCA R T22 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "v0297k",
+        "ID": "MCA R T22 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "4QAO1V",
+        "ID": "MCA R T22 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "U34cIT",
+        "ID": "MCA R T22 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "TJ5XCx",
+        "ID": "MCA R T22 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "e96Cpi",
+        "ID": "MCA L T23 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "01iQvR",
+        "ID": "MCA L T23 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7W2Xcm",
+        "ID": "MCA L T23 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "3enfm2",
+        "ID": "MCA L T23 010",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7W3Xcm",
+        "ID": "MCA L T23 011",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "4enPLy",
+        "ID": "MCA L T04 001",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "uS4aMH",
+        "ID": "MCA L T04 002",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "9gByhE",
+        "ID": "MCA L T04 003",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gV2c9g",
+        "ID": "MCA L T04 004",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "X8kQqD",
+        "ID": "MCA L T04 005",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Exn9Yn",
+        "ID": "MCA L T04 006",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Kl4HGq",
+        "ID": "MCA L T07 001",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "mTUtT6",
+        "ID": "MCA L T07 002",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7mls3d",
+        "ID": "MCA L T07 003",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "ub1EyN",
+        "ID": "MCA L T07 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "avE8Rz",
+        "ID": "MCA L T07 005",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "4e0gUe",
+        "ID": "MCA R T08 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gHDV9T",
+        "ID": "MCA R T08 002",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "s9HBVt",
+        "ID": "MCA R T08 003",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Placed but Not Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "17HeUe",
+        "ID": "MCA R T08 004",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "jNJB79",
+        "ID": "MCA R T08 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "A2a7uS",
+        "ID": "MCA R T12 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "5VZ0le",
+        "ID": "MCA R T12 002",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "fFg4f1",
+        "ID": "MCA R T12 003",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "0p1cKT",
+        "ID": "MCA R T12 004",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "a3VxXv",
+        "ID": "MCA R T12 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Ncb5RS",
+        "ID": "MCA R T13 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "bnAn36",
+        "ID": "MCA R T13 002",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Zux8jR",
+        "ID": "MCA R T13 003",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "kf44kJ",
+        "ID": "MCA R T13 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "8wDwet",
+        "ID": "MCA R T13 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "9gwaFC",
+        "ID": "MCA R T13 006",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "L2ZTjr",
+        "ID": "MCA R T14 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "KPkTE5",
+        "ID": "MCA R T14 002",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "e94Cpi",
+        "ID": "MCA R T14 003",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "J9TEnP",
+        "ID": "MCA R T14 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "nkD1UP",
+        "ID": "MCA R T14 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "R4r7yQ",
+        "ID": "MCA R T14 006",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "BBSCs4",
+        "ID": "MCA R T21 001",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "6h4oN4",
+        "ID": "MCA R T21 002",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7eMxiM",
+        "ID": "MCA R T21 003",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "x6uU2g",
+        "ID": "MCA R T21 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gDxt5R",
+        "ID": "MCA R T21 005",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "hJf4V0",
+        "ID": "MCA R T22 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "v0296k",
+        "ID": "MCA R T22 002",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "4QAO0V",
+        "ID": "MCA R T22 003",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "U33cIT",
+        "ID": "MCA R T22 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "TJ4XCx",
+        "ID": "MCA R T22 005",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "e95Cpi",
+        "ID": "MCA R T22 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "5enPLy",
+        "ID": "MCA L T23 001",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "uS5aMH",
+        "ID": "MCA L T23 002",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "1gByhE",
+        "ID": "MCA L T23 003",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gV2c1g",
+        "ID": "MCA L T23 004",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "X9kQqD",
+        "ID": "MCA L T23 005",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Exn1Yn",
+        "ID": "MCA L T23 006",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Kl5HGq",
+        "ID": "MCA L T04 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "mTUtT7",
+        "ID": "MCA L T04 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7mls4d",
+        "ID": "MCA L T04 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "ub2EyN",
+        "ID": "MCA L T04 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "avE9Rz",
+        "ID": "MCA L T04 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Jv2L60",
+        "ID": "MCA L T07 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Jv2L61",
+        "ID": "MCA L T07 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "5eOgUe",
+        "ID": "MCA L T07 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gHDV0T",
+        "ID": "MCA L T07 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "s1HBVt",
+        "ID": "MCA L T07 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "18HeUe",
+        "ID": "MCA L T07 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "6fhGi0",
+        "ID": "MCA R T08 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "jNJB80",
+        "ID": "MCA R T08 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "6fhGi1",
+        "ID": "MCA R T08 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "A2a8uS",
+        "ID": "MCA R T08 009",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "5VZ1le",
+        "ID": "MCA R T08 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "fFg4f2",
+        "ID": "MCA R T08 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "IcY1vM",
+        "ID": "MCA R T12 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "0p2cKT",
+        "ID": "MCA R T12 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "a4VxXv",
+        "ID": "MCA R T12 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "IcY2vM",
+        "ID": "MCA R T12 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Ncb6RS",
+        "ID": "MCA R T12 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "bnAn37",
+        "ID": "MCA R T12 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Zux9jR",
+        "ID": "MCA R T13 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "kf45kJ",
+        "ID": "MCA R T13 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "9wDwet",
+        "ID": "MCA R T13 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "1gwaFC",
+        "ID": "MCA R T13 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "L3ZTjr",
+        "ID": "MCA R T13 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "KPkTE6",
+        "ID": "MCA R T13 012",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "I6uHjy",
+        "ID": "MCA R T14 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "J1TEnP",
+        "ID": "MCA R T14 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "nkD2UP",
+        "ID": "MCA R T14 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "R4r8yQ",
+        "ID": "MCA R T14 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "BBSCs5",
+        "ID": "MCA R T14 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Yb6ADR",
+        "ID": "MCA R T21 006",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "6h4oN5",
+        "ID": "MCA R T21 007",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "8eMxiM",
+        "ID": "MCA R T21 008",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "x6uU3g",
+        "ID": "MCA R T21 009",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "gDxt6R",
+        "ID": "MCA R T21 010",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "Yb7ADR",
+        "ID": "MCA R T21 011",
+        "shippedStatus": false,
+        "destinationShipped": "",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "hJf4V1",
+        "ID": "MCA R T22 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "v0297k",
+        "ID": "MCA R T22 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "4QAO1V",
+        "ID": "MCA R T22 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "U34cIT",
+        "ID": "MCA R T22 010",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "TJ5XCx",
+        "ID": "MCA R T22 011",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "e96Cpi",
+        "ID": "MCA L T23 007",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "01iQvR",
+        "ID": "MCA L T23 008",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7W2Xcm",
+        "ID": "MCA L T23 009",
+        "shippedStatus": true,
+        "destinationShipped": "Bern",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "3enfm2",
+        "ID": "MCA L T23 010",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": false,
+        "usage": [
+            {
+                "timestamp": 0,
+                "systemID": "",
+                "userEmailID": "",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "UID": "7W3Xcm",
+        "ID": "MCA L T23 011",
+        "shippedStatus": true,
+        "destinationShipped": "Turkey",
+        "usageCount": 0,
+        "orderStatus": "Recieved",
+        "raptured": true,
         "usage": [
             {
                 "timestamp": 0,
@@ -1499,4 +5099,4 @@
             }
         ]
     }
-}
+]

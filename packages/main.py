@@ -1,6 +1,7 @@
 import json
 import pickle
 import boto3
+import os
 
 
 def load_token():
@@ -8,7 +9,10 @@ def load_token():
     Loads dropbox authentication token
     :return:
     """
-    with open("data/token.pkl", "rb") as file:
+    working_dir = os.getcwd()
+    if "NeuraBubbles_and_Canisters" not in working_dir:
+        working_dir = os.path.join(working_dir, "NeuraBubbles_and_Canisters")
+    with open(os.path.join(working_dir, "data/token.pkl"), "rb") as file:
         data = pickle.load(file)
 
     return data["aws_id"], data["aws_key"]
@@ -108,7 +112,7 @@ class DynamoDB:
         :return:
         """
 
-        self.table.put_item(Item = json_object)
+        self.table.put_item(Item=json_object)
 
     def update_items(self, json_objects):
         """
@@ -118,3 +122,5 @@ class DynamoDB:
         """
         for json_object in json_objects:
             self.update_item(json_object)
+
+

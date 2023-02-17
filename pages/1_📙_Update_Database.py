@@ -5,6 +5,7 @@ from packages.main import *
 service_name = "dynamodb"
 region = "eu-central-1"
 table_name = "NeuraBubbleUID_Validator"
+client = None
 
 
 def main():
@@ -35,6 +36,7 @@ def fetch_data():
 
     :return: table items as a list
     """
+    global client
     access_id, access_key = load_token()
     client = DynamoDB(access_id, access_key, service_name, region, table_name)
 
@@ -47,12 +49,15 @@ def fetch_data():
     return table["Items"]
 
 
-@st.cache_data
 def check_uid(uid):
-    df = pd.DataFrame(fetch_data())
+    df = pd.DataFrame(fetch_data(), index=None)
 
     if uid in list(df.UID):
-        st.info("NeuraBubble is Already in the Database")
+        st.success("NeuraBubble UID is Already in the Database")
+        uid_df = df[df.UID == uid]
+        uid_df.drop("usages", axis=1, inplace=True)
+        st.table(uid_df.T)
+
         return True
     else:
         st.warning("NeuraBubble UID Does Not Exist in the Database!")
@@ -87,7 +92,7 @@ def add_details(uid, nb_id, raptured, shipped, destination, usage_count, usages)
 
 
 def data_form(uid):
-    nb_form = st.form("nb_id")
+    nb_form = st.form("nb_id", clear_on_submit=True)
     aneurysm_type = nb_form.selectbox("Type of Aneurysm", ["MCA", "ICA", "PCOM", "ACOM", "BA"])
     aneurysm_side = nb_form.selectbox("Aneurysm Side", ["R", "L"])
     anonymized_id = nb_form.text_input("Anonymized ID", value="T04", help="(T04, T13, T23)")
@@ -112,7 +117,17 @@ def data_form(uid):
 
     if nb_id_status:
         st.success("Details Saved!")
-        st.json(json_data)
+        details, usages = get_tables(json_data)
+        st.table(pd.DataFrame(details, index=["Details"]))
+        if details["usageCount"] != 0:
+            st.table(pd.DataFrame(usages))
+
+
+def get_tables(json_data):
+    json_data_copy = json_data.copy()
+    usages = json_data_copy.pop("usages")
+
+    return json_data_copy, usages
 
 
 if __name__ == "__main__":
