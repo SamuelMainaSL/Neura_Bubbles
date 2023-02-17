@@ -12,7 +12,7 @@ def load_token():
     working_dir = os.getcwd()
     if "NeuraBubbles_and_Canisters" not in working_dir:
         working_dir = os.path.join(working_dir, "NeuraBubbles_and_Canisters")
-    with open(os.path.join(working_dir, "data/token.pkl"), "rb") as file:
+    with open("data/token.pkl", "rb") as file:
         data = pickle.load(file)
 
     return data["aws_id"], data["aws_key"]
